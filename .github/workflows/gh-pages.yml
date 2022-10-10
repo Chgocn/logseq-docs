@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches: [ master ]
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions tab, test action
   workflow_dispatch:
 
 jobs:
